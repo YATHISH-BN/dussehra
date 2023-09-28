@@ -408,10 +408,14 @@ background-color:rgb(206, 158, 226) ;
 
 @media (min-width:300px) and (max-width:380px) {
     
-    .body{
+    body{
         font-size: 16px;
         overflow-x: hidden;
-        width:97%;
+        width:100%;
+    }
+
+    html{
+        overflow-x: hidden;
     }
 
     .mainhead{
