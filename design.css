@@ -479,7 +479,7 @@ background-color:rgb(206, 158, 226) ;
     }
 
     .connect{
-        left: 80%;
+        left: 90%;
     }
 
 
@@ -518,7 +518,7 @@ background-color:rgb(206, 158, 226) ;
       line-height: 32px;
       color: rgba(195, 196, 192, 0.986);
       font-size: 55px;
-      left: 75%;
+      left: 85%;
       padding-right:5px;
      }
 
@@ -543,7 +543,7 @@ background-color:rgb(206, 158, 226) ;
     
 
         #form:checked ~ .form{
-            right:10%;
+            right:5%;
         }
 }
     
